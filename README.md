@@ -27,11 +27,8 @@ I have created a informational bot named "DEEPAK CHAHAR Chat bot" using Html and
 - we provided Gallery in home page to find more and also official website with links with innovative ideas ; go through it.
 - Main concept that my bot gives;About DEEPAK CHAHAR,detailed view of DEEPAK CHAHAR.
 
-## Screenshorts:
+## Screenshorts: 
 ### Home Page 
-
-
-### Gallery Page
 
 ### About Chat Bot 
 
