@@ -45,8 +45,7 @@ I have created a informational bot named "DEEPAK CHAHAR Chat bot" using Html and
 ### Chat Bot Page
 
 ### Contact Page
-
-
+![contact details](https://user-images.githubusercontent.com/114653933/196035368-025eb583-c11c-4600-8af7-42ad9543cfb8.png)
 
 # Tech Stack 💻
 
