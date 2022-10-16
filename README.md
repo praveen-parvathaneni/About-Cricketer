@@ -35,12 +35,11 @@ I have created a informational bot named "DEEPAK CHAHAR Chat bot" using Html and
 
 ![home page 3](https://user-images.githubusercontent.com/114653933/196035261-9f2e4fec-1949-4a76-b5f1-91c98ea907cb.png)
 
-### About Chat Bot 
-
 ### About Page
 ![About](https://user-images.githubusercontent.com/114653933/196035334-24ebdb49-9841-491e-9b9c-fd528b125947.png)
 
 ### FAQ Page
+![FAQ's page](https://user-images.githubusercontent.com/114653933/196035388-2726d4b6-dacc-465a-973d-09ef59ba335a.png)
 
 ### Chat Bot Page
 
